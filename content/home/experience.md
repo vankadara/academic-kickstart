@@ -26,12 +26,20 @@ date_format = "January 2006"
   date_start = "2016-05-01"
   date_end = "2018-06-30"
   description = """
-  Worked on different stages of Retail Industry Business Applications like system analysis, Design, Development, Implementation, Production Support and Maintenance.
-• Organized the data of Application using different Dimension Data concepts like Star Schema Modelling, Snow-Flake Modeling, Physical and Logical Data Modeling for different scenarios.
-• Analyzed and converted data from different data sources like Oracle, MS SQL Server, Oracle Apps, MS Access, Fixed Width and Delimited Flat Files, COBOL files and XML Files into a single format to feed ETL.
-• Worked on Informatica Power Center (Repository Manager, Designer, Workflow Manager, Workflow Monitor, Metadata Manger), Power Exchange, Power Connect as ETL tool on Oracle, DB2 and Sybase Server Databases for Extraction, Transformation and Loading data into Data Marts and Data Warehouse.
-• Developed Service center prices (SCP) and Product Information Management(PIM) applications to maintain lowest prices of retail industry by analyzing the competitors prices
-• Extracted data from Mainframe sources to load and plan the agenda of Colruyt employee members whose task is to go to competitors stores of Colruyt and records the price of each article as per their avalilability."""
+ 
+ Worked on different stages of Retail Industry Business Applications like system analysis, Design, Development, Implementation, Production Support and Maintenance.
+ 
+ Organized the data of Application using different Dimension Data concepts like Star Schema Modelling, Snow-Flake Modeling, Physical and Logical Data Modeling for different scenarios.
+
+ Analyzed and converted data from different data sources like Oracle, MS SQL Server, Oracle Apps, MS Access, Fixed Width and Delimited Flat Files, COBOL files and XML Files into a single format to feed ETL.
+
+ Worked on Informatica Power Center (Repository Manager, Designer, Workflow Manager, Workflow Monitor, Metadata Manger), Power Exchange, Power Connect as ETL tool on Oracle, DB2 and Sybase Server Databases for Extraction, Transformation and Loading data into Data Marts and Data Warehouse.
+
+ Developed Service center prices (SCP) and Product Information Management(PIM) applications to maintain lowest prices of retail industry by analyzing the competitors prices
+
+ Extracted data from Mainframe sources to load and plan the agenda of Colruyt employee members whose task is to go to competitors stores of Colruyt and records the price of each article as per their avalilability.
+
+"""
 
 [[experience]]
   title = "Intern"
