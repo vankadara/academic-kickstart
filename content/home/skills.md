@@ -21,7 +21,7 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-[feature]]
+[[feature]]
   icon = "html5"
   icon_pack = "fab"
   name = "HTML"
