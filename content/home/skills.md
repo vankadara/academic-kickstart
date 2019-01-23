@@ -35,13 +35,13 @@ weight = 7
   
 [[feature]]
   icon = "database"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "Oracle, Sybase"
   
   
 [[feature]]
   icon = "laptop-code"
-  icon_pack = "fab"
+  icon_pack = "fas"
   name = "C,C++"
   
   
