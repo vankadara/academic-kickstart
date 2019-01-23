@@ -21,22 +21,33 @@ weight = 7
 # * fab - Font Awesome brand icons (see https://fontawesome.com/icons)
 # * ai - academic icons (see https://jpswalsh.github.io/academicons/)
 
-[[feature]]
-  icon = "r-project"
+[feature]]
+  icon = "html5"
   icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  name = "HTML"
+
+
+[[feature]]
+  icon = "css3"
+  icon_pack = "fab"
+  name = "CSS"
+  
   
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Statistics"
-  description = "100%"  
+  icon = "database"
+  icon_pack = "fab"
+  name = "Oracle, Sybase"
+  
   
 [[feature]]
-  icon = "camera-retro"
-  icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  icon = "laptop-code"
+  icon_pack = "fab"
+  name = "C,C++"
+  
+  
+[[feature]]
+  icon = "js-square"
+  icon_pack = "fab"
+  name = "JavaScript"
 
 +++
