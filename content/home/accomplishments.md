@@ -20,8 +20,7 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  # title = "Neural Networks and Deep Learning"
-  title = [ { name = "University of Texas Arlington", url = "https://www.uta.edu/uta/" } ]
+  title = "Neural Networks and Deep Learning"
   organization = "Coursera"
   certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"
