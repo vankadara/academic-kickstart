@@ -15,9 +15,6 @@ weight = 60
 
 +++
 
-Dataset Link:
-https://drive.google.com/open?id=1wSPSLCX8AJ35P1ssgPPe1gwsTmZL-3mO
-
 Features it supports:
 
 Using Dataset that contains thousands of movies with detailed information.
