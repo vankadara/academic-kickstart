@@ -13,7 +13,8 @@ weight = 50
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-url = "Recommender_Project/DataMining_OnePageProposal.md"
+title_url = "Recommender_Poject"
+folder = "Recommender_Project/DataMining_OnePageProposal"
 
 # View.
 # Customize how projects are displayed.
