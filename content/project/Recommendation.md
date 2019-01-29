@@ -11,16 +11,7 @@ title = "Recommender-Project"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
-
-[[project]]
-  title = "Recommendation-Project"
-  company = "Colruyt"
-  company_url = "https://colruytindia.colruytgroup.com/"
-  location = "India"
-  date_start = "2016-05-01"
-  date_end = "2018-06-30"
-  description = """
+weight = 60
 
 +++
 
