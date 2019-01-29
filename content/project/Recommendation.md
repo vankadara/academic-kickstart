@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-Dataset Link:
+"""Dataset Link:
 https://drive.google.com/open?id=1wSPSLCX8AJ35P1ssgPPe1gwsTmZL-3mO
 
 Features it supports:
@@ -55,7 +55,7 @@ Why Someone will need this app ?
 	Today Recommender system is very important and growing rapidly, and these are used to recommend all kinds of content to the user, for example consider entertainment based scenario such as movies.
 	Movie Recommender is important in our social life as this can suggest a set of movies to the registered users based on their interests or movie popularity.
 	As already there are some movie recommender application on internet, the movie recommended system that am proposing has the ability to recommend movies to new user as well as the others.
-	This application efficiently retrieves form the dataset , to collect all information such as popularity, by year and others required for recommendation.
+	This application efficiently retrieves form the dataset , to collect all information such as popularity, by year and others required for recommendation."""
 
 
 
