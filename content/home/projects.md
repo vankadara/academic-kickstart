@@ -40,9 +40,9 @@ flip_alt_rows = false
 #   name = "All"
 #   tag = "*"
 
- [[filter]]
-   name = "Deep Learning"
-   tag = "Deep Learning"
+# [[filter]]
+#  name = "Deep Learning"
+#  tag = "Deep Learning"
 
 # [[filter]]
 #   name = "Other"
