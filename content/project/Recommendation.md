@@ -29,24 +29,20 @@ advancemenuimg=""
 image = "" 
 caption = "" 
 +++
-Features it supports:
+Abstract:
+Today's world internet present everywhere, due to its high availability and lot of choices present for
+everything users are unable to choose the right choice among them. From selecting good movie to best
+university to study etc.., Here the recommender systems play an important role.
+According to statistics(survey conducted by semanticscholar.org) some of the companies that are
+largely benefited from recommender system are as below.
 
-This Dataset contains the some filters based on some parameters like:
+Netflix : 2/3 rd of the movies watched on netflix are recommended
 
-Adult : whether movie is certified to watch only by adults or not.
-Budget: Contains the production cost of the movie.
-Genres: Under which category the movie falls in.
-Release date: The data when movie was released.
-Revenue : The total revenue the movie collected so far.
-runtime : Total length or duration of the movie.
-Status : Movie is release or yet to be released.
-This dataset also contains some information like Movie title, Overview, Tagline, Production, company/countries, ratings given, number of voters
+Google News: 38% of the google news clicks are generated from recommendations made available to
+each user.
 
-List of similar applications found were:
+Amazon : Recommendations contribute 42% of the sales.
 
-Cinematics : The Movie Guide.
-MovieRE – Movie recommendation engine.
-Movie Recs : Movie Recommendor
 
 Why Someone will need this app ?
 
