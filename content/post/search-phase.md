@@ -24,9 +24,27 @@ tags = ["Server","Installation"]
 image = "" 
 caption = "" 
 +++
-The First phase of the project “search” implementation has been successfully completed by
-me. In this the user will be able to search with movie title and search engine will retrieve the
-movie title, overview, rating and genres. Except deploying it in public server.
+The Moto in doing this project is to develop a movie recommendation android applicaton, as part of this project, first phase is to develop a search engine in which user enters the query or description text and based on that the search engine displays top 3 results that matches the description of the movie in the movie dataset.
+
+Dataset Link:
+https://drive.google.com/open?id=1wSPSLCX8AJ35P1ssgPPe1gwsTmZL-3mO
+
+References
+For the Phase I, Game Finder used two references. 
+
+1. https://github.com/AdnanOquaish/Cosine-similarity-Tf-Idf-/blob/master/DocumentParser.java
+
+2. https://stackoverflow.com/questions/27685839/removing-stopwords-from-a-string-in-java
+
+3. https://github.com/BhaskarTrivedi/QuerySearch_Recommentation_Classification.
+
+The first recommendation is used for how to use application programming interface for term frequency and inverse document frequency on a dataset and also for cosine similarity, i just used this reference as a model to understand how tf-idf and cosine similarity works for the dataset.
+
+The second recommendation is used to remove stop words from query as well as in the description column in the dataset. I used the similar API in my project.
+
+The third recommendation i used is from bhaskar trivedi, to see how to connect from android application to flask in python anywhere server and also i reused his code for the android application user interface(as i am beginner to android).
+
+
 Implementation & Challenges :
 I had implemented my project in java using android studio. I had title column and plot
 column where detailed description of movie is found. As am beginner in developing a
