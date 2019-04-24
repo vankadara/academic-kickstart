@@ -44,22 +44,20 @@ The second recommendation is used to remove stop words from query as well as in 
 
 The third recommendation i used is from bhaskar trivedi, to see how to connect from android application to flask in python anywhere server and also i reused his code for the android application user interface(as i am beginner to android).
 
+Implementation :
 
-Implementation & Challenges :
-I had implemented my project in java using android studio. I had title column and plot
-column where detailed description of movie is found. As am beginner in developing a
-android application I faced lot of difficulties in choosing application design, deciding the
-programming language to implement in, after deciding the programming language faced lot
-of difficulties in starting with android studio and its environment and I referred some of the
-websites like stack overflow, you tube videos on how to create basic hello world application
-and launching it. After all these hurdles i faced challenges in converting the csv file to json
-file , retrieving the data from json file and performing search on json and displaying the
-search results back on to new activity in android is one of the most difficult part in
-implementation.
-When considering the column title I had removed the white spaces in the value of title
-column and searched by ignoring the uppercase of the words. Next after successful
-implementation it took lot of time to build the .apk file and deploying it in the android
-mobile using usb debugger.
-Till now I had implemented the application by storing the dataset locally instead in an
-different server but if given some time am confident of meeting this requirement and I
-learned a lot in this process of developing android application using the real time dataset
+TF: Term Frequency, which measures how frequently a term occurs in a document. Since every document is different in length, it is possible that a term would appear much more times in long documents than shorter ones. Thus, the term frequency is often divided by the document length (aka. the total number of terms in the document) as a way of normalization: 
+
+TF(t) = (Number of times term t appears in a document) / (Total number of terms in the document).
+
+IDF: Inverse Document Frequency, which measures how important a term is. While computing TF, all terms are considered equally important. However it is known that certain terms, such as "is", "of", and "that", may appear a lot of times but have little importance. Thus we need to weigh down the frequent terms while scale up the rare ones, by computing the following: 
+
+IDF(t) = log_e(Total number of documents / Number of documents with term t in it).
+
+Then i generated the document vector by using the above tf and idf and converted the user search query as query vector.
+
+In the next step i found the cosine similarity between two vectors(query and document)
+
+                          Similarity  = cosθ = (a.b) / (||a||||b||)
+Here, a -> query vector and b -> document vector.
+
