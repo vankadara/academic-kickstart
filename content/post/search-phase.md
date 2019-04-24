@@ -61,3 +61,4 @@ In the next step i found the cosine similarity between two vectors(query and doc
                           Similarity  = cosθ = (a.b) / (||a||||b||)
 Here, a -> query vector and b -> document vector.
 
+I used numpy library in python to sort the search result and displaying the top three results in my android application.
