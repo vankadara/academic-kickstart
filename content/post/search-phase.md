@@ -30,7 +30,7 @@ Dataset Link:
 https://drive.google.com/open?id=1wSPSLCX8AJ35P1ssgPPe1gwsTmZL-3mO
 
 References
-For the Phase I, Game Finder used two references. 
+For the Phase I, used three references. 
 
 1. https://github.com/AdnanOquaish/Cosine-similarity-Tf-Idf-/blob/master/DocumentParser.java
 
