@@ -14,7 +14,7 @@ list_format = 2
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = ["Server","Installation"]
-url_pdf = "files/movierecommender.pdf"
+url_pdf = "files/MovieRecomender.pdf"
 
 # Step to follow.
 
